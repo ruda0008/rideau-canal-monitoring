@@ -411,7 +411,7 @@ Claude AI by anthropic
 - Purpose: 
   - Generating inital code later on combining with my code, Debugging assistance, concept explanations, documentation templates, boilerplate generation, Express routes, Chart.js setup
 
-- My Original Work: 100% Designed by Me:
+ My Original Work: 100% Designed by Me:
 
 - System architecture decisions
 - Database schema and partition key selection
@@ -428,7 +428,7 @@ Manually Written:
 Modified/Enhanced by  AI:
 
 - Express route handlers (simplified error handling)
-- Chart.js configuration (customized colors and options)
+- Chart.js 
 - CSS responsive design 
 - Backend for Dashboard
 - Temperature data Simulation in python 
