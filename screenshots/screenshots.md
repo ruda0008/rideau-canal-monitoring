@@ -19,3 +19,6 @@ IoT hub metrics
 
   Dashboard running on local machine
   ![text](07-dashboard-local.png)
+
+ Dashboard running on Azure
+  ![alt text](08-dashboard-azuer.png)

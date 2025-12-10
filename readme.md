@@ -16,6 +16,12 @@ The Rideau Canal Skateway in Ottawa is the world's largest skating rink, attract
 <br>
 <br>
 
+# Youtube Video Link
+- https://youtu.be/EIGuOP0KjiI
+
+<br>
+<br>
+
 # System Architecture
 
 ![alt text](<architecture/Screenshot 2025-12-09 at 3.00.22 PM.png>)
@@ -397,9 +403,6 @@ Contains comprehensive project documentation, architecture diagrams, screenshots
 
 
 ---
-
-# Youtube Video Link
-- https://youtu.be/EIGuOP0KjiI
 
 ## AI Tools Disclosure
 ### Tool Used
