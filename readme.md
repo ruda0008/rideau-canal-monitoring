@@ -244,31 +244,29 @@ FROM AggregatedData
 
 1. **Clone all three repositories:**
 ```bash
-git clone https://github.com/yourusername/rideau-canal-sensor-simulation
-git clone https://github.com/yourusername/rideau-canal-dashboard
-git clone https://github.com/yourusername/rideau-canal-monitoring
+
+https://github.com/ruda0008/rideau-canal-sensor-simulation
+https://github.com/ruda0008/rideau-canal-dashboard
+https://github.com/ruda0008/rideau-canal-monitoring
 ```
+
+Contains Python code that simulates three IoT sensors sending telemetry data every 10 seconds.
 
 2. **Deploy Azure infrastructure** (see detailed guides in component repos)
 
 3. **Configure and run sensor simulator:**
-```bash
-cd rideau-canal-sensor-simulation
-python -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-cp .env.example .env
-# Edit .env with your IoT Hub connection strings
+
+-  Edit .env with your IoT Hub connection strings
 python sensor_simulator.py
-```
+- Run the Python File
+
 
 4. **Configure and run dashboard:**
 ```bash
 cd rideau-canal-dashboard
 npm install
-cp .env.example .env
 # Edit .env with your Cosmos DB credentials
-node server.js
+npm start
 ```
 
 5. **Access dashboard:** http://localhost:3000
@@ -277,7 +275,7 @@ For detailed setup instructions, see the README files in each component reposito
 
 ---
 
-## 📈 Results & Analysis
+##  Results & Analysis
 
 ### System Performance Metrics
 
@@ -392,11 +390,14 @@ Contains the Node.js backend API and HTML/CSS/JavaScript frontend for the monito
 
 
 ### 3. Main Documentation Repository (This Repo)
-**URL:** 
+**URL:** https://github.com/ruda0008/rideau-canal-monitoring
 
 Contains comprehensive project documentation, architecture diagrams, screenshots, and Stream Analytics query.
 
 
 
 ---
+
+# Youtube Video Link
+- https://youtu.be/EIGuOP0KjiI
 
