@@ -401,3 +401,32 @@ Contains comprehensive project documentation, architecture diagrams, screenshots
 # Youtube Video Link
 - https://youtu.be/EIGuOP0KjiI
 
+## AI Tools Disclosure
+### Tool Used
+Claude AI by anthropic
+
+- Purpose: 
+  - Generating inital code later on combining with my code, Debugging assistance, concept explanations, documentation templates, boilerplate generation, Express routes, Chart.js setup
+
+- My Original Work: 100% Designed by Me:
+
+- System architecture decisions
+- Database schema and partition key selection
+- Stream Analytics query logic and safety classification rules
+- Dashboard UI/UX layout
+ 
+Manually Written:
+
+- Stream Analytics query 
+- Logic for safety status
+- Cosmos DB query patterns
+- Frontend state management
+
+Modified/Enhanced by  AI:
+
+- Express route handlers (simplified error handling)
+- Chart.js configuration (customized colors and options)
+- CSS responsive design 
+- Backend for Dashboard
+- Temperature data Simulation in python 
+
