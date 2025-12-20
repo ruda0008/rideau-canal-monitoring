@@ -6,12 +6,8 @@
 The Rideau Canal Skateway in Ottawa is the world's largest skating rink, attracting thousands of visitors daily. Ensuring skater safety requires continuous monitoring of ice conditions across multiple locations. This project implements a complete **real-time IoT data pipeline** using Azure cloud services to automate this monitoring process.
 
 
-## Student Information
 
-- **Name:** Aryan Rudani
-- **Student ID:** 041171391
-- **Course:** CST8916 - Remote Data and Real-time Applications
-- **Semester:** Fall 2025
+
 
 <br>
 <br>
